@@ -1,10 +1,5 @@
 # Clean Architecture Go Template
 
-[![Go Version](https://img.shields.io/badge/Go-1.21+-00ADD8?style=flat&logo=go)](https://go.dev/)
-[![License](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
-[![Go Report Card](https://goreportcard.com/badge/github.com/seu-usuario/seu-projeto)](https://goreportcard.com/report/github.com/seu-usuario/seu-projeto)
-[![Coverage Status](https://coveralls.io/repos/github/seu-usuario/seu-projeto/badge.svg?branch=main)](https://coveralls.io/github/seu-usuario/seu-projeto?branch=main)
-
 Template de API REST em Go seguindo os princípios da Clean Architecture, SOLID e as melhores práticas de desenvolvimento.
 
 ## 📋 Índice
